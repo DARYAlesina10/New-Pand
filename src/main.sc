@@ -7,11 +7,11 @@ theme: /
         a: Начнём.
 
     state: Hello
-        intent!: /привет
-        a: Привет привет
+        intent!: /Забронировать 
+        a: Сейчас забронирую
 
     state: Bye
-        intent!: /пока
+        intent!: /Отменить 
         a: Пока пока
 
     state: NoMatch
